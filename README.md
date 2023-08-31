@@ -75,7 +75,9 @@ Please refer to the Solidity documentation for more information on interacting w
 
 ## Authors
 
+Aryaman Semta
 
+21bcs3853@cuchd.in
 
 ## License
 
